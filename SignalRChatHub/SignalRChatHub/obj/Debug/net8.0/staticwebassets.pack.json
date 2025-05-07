@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "J:\\webdev\\SignalRChatHub\\SignalRChatHub\\SignalRChatHub\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SignalRChatHub.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SignalRChatHub.lvqc1uwunv.bundle.scp.css"
+    },
+    {
+      "Id": "J:\\webdev\\SignalRChatHub\\SignalRChatHub\\SignalRChatHub\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "J:\\webdev\\SignalRChatHub\\SignalRChatHub\\SignalRChatHub\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "J:\\webdev\\SignalRChatHub\\SignalRChatHub\\SignalRChatHub\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "J:\\webdev\\SignalRChatHub\\SignalRChatHub\\SignalRChatHub\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SignalRChatHub.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SignalRChatHub.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SignalRChatHub.props",
+      "PackagePath": "build\\SignalRChatHub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SignalRChatHub.props",
+      "PackagePath": "buildMultiTargeting\\SignalRChatHub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SignalRChatHub.props",
+      "PackagePath": "buildTransitive\\SignalRChatHub.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

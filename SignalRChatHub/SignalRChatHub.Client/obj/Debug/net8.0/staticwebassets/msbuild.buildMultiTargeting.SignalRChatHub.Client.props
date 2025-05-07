@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SignalRChatHub.Client.props" />
+</Project>

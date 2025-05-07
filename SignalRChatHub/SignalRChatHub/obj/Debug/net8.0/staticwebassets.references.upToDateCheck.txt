@@ -1,0 +1,2 @@
+J:\webdev\SignalRChatHub\SignalRChatHub\SignalRChatHub.Client\obj\Debug\net8.0\staticwebassets.build.json
+J:\webdev\SignalRChatHub\SignalRChatHub\SignalRChatHub.Client\obj\Debug\net8.0\staticwebassets.build.json
